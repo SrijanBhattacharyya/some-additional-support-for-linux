@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SrijanBhattacharyya/some-additional-support-for-linux)
 
 ## TOC
-* [Multi-boot Setup with GRUB](Multi-boot%20Setup%20with%20GRUB.md)
+* [Multi-boot Setup with GRUB](multi-boot-setup-with-grub)
 
 ## Multi-boot Setup with GRUB
 Instructions for setting up a multi-boot configuration using GRUB, including Linux Based OSs and Windows.
