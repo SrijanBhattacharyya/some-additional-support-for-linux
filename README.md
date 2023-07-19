@@ -26,7 +26,7 @@ Instructions for setting up a multi-boot configuration using GRUB, including Lin
       <summary>For OSs with apt as packagemanager:</summary>
 
      ```
-     sudo apt install grub
+     sudo apt install -y grub
      ```
      </details>
    > **NOTE:**
