@@ -65,7 +65,7 @@ Instructions for setting up a multi-boot configuration using GRUB, including Lin
        > *NOTE:*
        <br> Replace `<NAME_OF_OS_WHICH_YOU_WANT_TO_SHOW>` with your OS name [like: "Arch Linux"].
        <br> Replace `<ARCH_ESP_UUID>` with UUID of the EFI System Partition (ESP) where bootloader of the OS is located. *You can find the UUID by running the command `sudo blkid /dev/sdXY`, where `/dev/sdXY` is the partition device for the ESP, for example: `/dev/sda1`.*
-       <br> Replace `<PATH_TO_OS_EFI.efi>` with the path to the EFI of the os. Usually present at `/EFI/<OS_NAME>/vmlinuz.efi` or `/boot/efi/EFI/<OS_NAME>/grubx64.efi`. Here `<OS_NAME>` is the name of your OS.
+       <br> Replace `<PATH_TO_OS_EFI.efi>` with the path to the EFI of the os. Usually present at `/EFI/<OS_NAME>/vmlinuz.efi` or `/EFI/<OS_NAME>/grubx64.efi`. Here `<OS_NAME>` is the name of your OS.
      * Save the changes and exit the text editor.
      * Update GRUB:
        ```
