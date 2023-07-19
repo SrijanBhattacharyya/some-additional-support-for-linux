@@ -106,10 +106,10 @@ If you encounter any issues during the installation or configuration process, tr
 * Ensure that the bootloader paths and filenames match the actual file locations on your system.
 * If you're having difficulty locating the EFI partition UUID, use the `sudo blkid /dev/sdXY` command, where `/dev/sdXY` corresponds to the EFI partition device.
 
-### Contributing
+## Contributing
 
 Contributions to this project are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
 
-### License
+## License
 
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
