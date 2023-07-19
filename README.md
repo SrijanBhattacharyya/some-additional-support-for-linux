@@ -16,14 +16,14 @@ Instructions for setting up a multi-boot configuration using GRUB, including Lin
 ### Installation Steps
 1. Install GRUB:
    * <details>
-      <summary>For OSs with `pacman` as packagemanager:</summary>
+      <summary>For OSs with pacman as packagemanager:</summary>
 
      ```
      sudo pacman -S grub
      ```
      </details>
    * <details>
-      <summary>For OSs with `apt` as packagemanager:</summary>
+      <summary>For OSs with apt as packagemanager:</summary>
 
      ```
      sudo apt install grub
