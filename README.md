@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SrijanBhattacharyya/some-additional-support-for-linux)
 
-## TOC
+## Table of Content
 * [Multi-boot Setup with GRUB](README.md#multi-boot-setup-with-grub)
 
 ## Multi-boot Setup with GRUB
