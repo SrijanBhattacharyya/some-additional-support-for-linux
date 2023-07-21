@@ -58,7 +58,7 @@ Instructions for setting up a multi-boot configuration using GRUB, including Lin
          insmod part_gpt
          insmod fat
          insmod search_fs_uuid
-         search --fs-uuid --no-floppy --set=root <ARCH_ESP_UUID>
+         search --fs-uuid --no-floppy --set=root <ESP_UUID>
          chainloader <PATH_TO_OS_EFI.efi>
        }
        ```
